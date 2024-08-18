@@ -6,6 +6,6 @@ To use:
   - Add an array element
   - Add whatever node(s) you wish to flip
 
-NOTE: Whatever nodes are added to this array must not have their rotation changed.
-
+NOTE:
+Whatever nodes are added to this array must not have their rotation changed.
 Instead, simply utilize the root node for all rotation changes, or add said array nodes as children to another Node2D.
