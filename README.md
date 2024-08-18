@@ -5,7 +5,7 @@ To use:
   - Assign what the root of the scene tree is
   - Add whatever node(s) you wish to flip to the array
 
-NOTE:
-Whatever nodes are added to this array must not have their rotation changed.
-Instead, simply utilize the root node for all rotation changes, or add said array nodes as children to another Node2D.
-(As you can see in the example photo, I am not worrying about rotation on the Lizard, hehe)
+NOTE:<br>
+Whatever nodes are added to this array must not have their rotation changed.<br>
+Instead, simply utilize the root node for all rotation changes, or add said array nodes as children to another Node2D.<br>
+(As you can see in the example photo, I am not worrying about rotation on the Lizard, hehe)<br>
