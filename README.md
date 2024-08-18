@@ -1,4 +1,4 @@
-##This is a simple left/right 2D Orientation Handler for Godot 4.2.2
+<h1>This is a simple left/right 2D Orientation Handler for Godot 4.2.2</h1>
 
 To use:
   ![image](https://github.com/user-attachments/assets/a2ccfba6-49f9-4fde-b74a-715ce3181475)
