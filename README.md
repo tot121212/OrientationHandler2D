@@ -8,4 +8,4 @@ To use:
 NOTE:
 Whatever nodes are added to this array must not have their rotation changed.
 Instead, simply utilize the root node for all rotation changes, or add said array nodes as children to another Node2D.
-(As you can see in the example photo, I am not worrying about rotation on the Lizard)
+(As you can see in the example photo, I am not worrying about rotation on the Lizard, hehe)
